@@ -23,7 +23,7 @@ export default defineConfig({
       ],
     }),
   ],
-  base:'/academic-project-page-template-vue',
+  base:'/CE-SARTEST',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
